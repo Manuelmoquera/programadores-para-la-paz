@@ -1,0 +1,5 @@
+1. No exponer datos personales.
+2. Utilizar contraseñas seguras.
+3. Implementar conexiones HTTPS.
+4. Registrar accesos al sistema.
+5. Limitar el acceso a información sensible.
